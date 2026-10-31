@@ -1,0 +1,9 @@
+# Datos: no se suben al repositorio; el cuaderno los descarga de la fuente primaria (celda 1)
+centinela_fase1/
+datos/
+*.csv
+*.tar.gz
+*.json
+*.pt
+.ipynb_checkpoints/
+__pycache__/
