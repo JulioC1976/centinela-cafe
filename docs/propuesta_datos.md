@@ -133,4 +133,4 @@ Las huellas de Mendeley son las que publica su API pública; la celda 1 del cuad
 
 | Integrante | Firma | Fecha |
 | --- | --- | --- |
-| Julio César González |  | 2026-10-30 |
+| Julio César González | Firmado en la versión pdf | 2026-10-30 |
